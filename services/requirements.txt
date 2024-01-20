@@ -1,0 +1,4 @@
+vllm==0.2.7
+transformers==4.36.2
+requests==2.31.0
+gradio==4.14.0
